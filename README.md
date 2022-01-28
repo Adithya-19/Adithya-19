@@ -1,6 +1,6 @@
 <div align="center"><h1> Hi there🙋🏻‍♂️ </h1></div>
-<h2> My name is Adithya!👦🏻 </h2>
-<h3> Hope all is well at your end!🤞🏻 </h3>
+<div align="center"><h2> My name is Adithya!👦🏻 </h2></div>
+<div align="center"><h3> Hope all is well at your end!🤞🏻 </h3></div>
 <h3> About me: </h3>
 
 - 🔭 I’m currently working on new projects
