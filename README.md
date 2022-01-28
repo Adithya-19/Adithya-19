@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on new projects
-- 🎓 I'm  good in Scratch😸, HTML🕸️, Animating⚾, storyboardthat 💬
+- 🎓 I'm  good in Scratch😸, HTML🕸️, Animating⚾, storyboardthat 💬, Tinkercad🔌
 - 🌱 I’m currently learning **C**➕➕ and Python🐍
 - 🤔 I’m looking forward to help with doubts in any of these six things 
 - 📫 How to reach me: In GitHub🐈!
