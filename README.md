@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on new projects
 
-- 🎓 I'm  good in Scratch😸, HTML🕸️, Animating⚾, storyboardthat 💬, Tinkercad🔌
+- 🎓 I'm  good in Scratch😸, HTML🕸️, Animating⚾, Sketchup🛖, Tinkercad🔌, **C**➕➕
 
-- 🌱 I’m currently learning **C**➕➕ and Python🐍
+- 🌱 I’m currently learning Java☕ and Python🐍
 
-- 🤔 I’m looking forward to help with doubts in any of these seven things 
+- 🤔 I’m looking forward to help with doubts in any of these 8️⃣ things 
 
 - 📫 How to reach me: [Click Here😊!](https://github.com/Adithya-19/Chat/issues)
 
